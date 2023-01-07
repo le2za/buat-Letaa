@@ -118,7 +118,7 @@ html {
   
   .six img {
     display: inline-block;
-    max-width: 40%;
+    max-width: 100%;
     height: auto;
   }
   
